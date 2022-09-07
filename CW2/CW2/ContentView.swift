@@ -23,7 +23,7 @@ struct ContentView: View {
             
          // Text(name)
            
-                
+          
                Text("IOS")
                     .frame(width: 200, height: 30)
                     .background(RoundedRectangle(cornerRadius:10).fill(Color.yellow))
